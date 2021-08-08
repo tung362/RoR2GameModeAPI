@@ -124,7 +124,7 @@ namespace RoR2GameModeAPI
                     Hooks.Init();
                     Debug.Log("GameModeAPI setup completed @GameModeAPI");
                 }
-                else Debug.LogError("Failed to load GameModeAPI, please let the developer know on \"https://github.com/tung362/RoR2PVP/issues\" @GameModeAPI");
+                else Debug.LogError("Failed to load GameModeAPI, please let the developer know on \"https://github.com/tung362/RoR2GameModeAPI/issues\" @GameModeAPI");
                 SceneManager.sceneLoaded -= Init;
             }
         }
