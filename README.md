@@ -10,6 +10,8 @@ For example projects you can check out the one included with the API [here](Exam
 ### Found a bug? Want a feature added?:  
 Feel free to submit an issue here on my [github](https://github.com/tung362/RoR2GameModeAPI/issues)!  
 
+![alt text](https://i.imgur.com/ea8UYFd.png)  
+
 ### Features:  
 - **Vanilla Compatibility**
 - **GameModeAPI**
