@@ -3,11 +3,11 @@ RoR2GameModeAPI is a fully networked API for the game Risk of Rain 2 that provid
 
 The API supports compatibility with vanilla along with modded clients. It should also be able to handle multiple mods and run fine even if the users don't have all the same mods installed that uses the API's functionalities
 
-### Are you a developer?:  
+### Are you a developer?  
 For a guide on how to integrate this API with your own project you can check my [wiki](https://github.com/tung362/RoR2GameModeAPI/wiki)  
 For example projects you can check out the one included with the API [here](Example/) or look at my [RoR2PVP](https://github.com/tung362/RoR2PVP) mod  
 
-### Found a bug? Want a feature added?:  
+### Found a bug? Want a feature added?  
 Feel free to submit an issue here on my [github](https://github.com/tung362/RoR2GameModeAPI/issues)!  
 
 ![alt text](https://i.imgur.com/ea8UYFd.png)  
