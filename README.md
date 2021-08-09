@@ -1,5 +1,5 @@
 # RoR2GameModeAPI
-RoR2GameModeAPI is a fully networked API for the game Risk of Rain 2 that provides a simplified way to add custom game modes, custom votable rulebooks, custom vote polls, as well as useful utilities and callbacks.
+RoR2GameModeAPI is a fully networked API for the game Risk of Rain 2 that provides a simplified way to add custom game modes, custom voteable rulebooks, custom vote polls, as well as useful utilities and callbacks.
 
 The API supports compatibility with vanilla along with modded clients. It should also be able to handle multiple mods and run fine even if the users don't have all the same mods installed that uses the API's functionalities
 
